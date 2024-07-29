@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Implementing N queens
+Implementing N queens problem
 """
 import sys
 
